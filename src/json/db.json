@@ -1,0 +1,44 @@
+{
+    "whyus": [
+        {
+            "number": "01",
+            "title": "Lorem Ipsum",
+            "content": "Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat"
+        },
+        {
+            "number": "02",
+            "title": "Repellat Nihil",
+            "content": "Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest"
+        },
+        {
+            "number": "03",
+            "title": "Ad ad velit qui",
+            "content": "Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis"
+        }
+    ],
+    "foods":[
+        {
+            "image": "../assets/caesar.jpg",
+            "title": "title1",
+            "price": 20,
+            "content": "negm",
+            "amount": 0
+        },
+        {
+            "image": "../assets/about-bg.jpg",
+            "title": "title2",
+            "price": 10,
+            "content": "nrgm",
+            "amount": 0
+        },
+        {
+            "image": "../assets/caesar.jpg",
+            "title": "title1",
+            "price": 20,
+            "content": "negm",
+            "amount": 0
+        }
+    ]
+    
+
+}
